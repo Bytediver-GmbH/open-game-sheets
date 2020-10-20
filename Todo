@@ -1,0 +1,8 @@
+-  Let users enter repo urls
+-  Check for ogs.json with Name etc
+-  Import Scripts mentioned in file when User opens game 
+-  Boot componend mentioned in file. If the booting fails, Show error 
+-  implement game saving for third Party games 
+-  implement muktiplayer
+-  implement share functionality with game already installed
+-  implement security for third Party games 
